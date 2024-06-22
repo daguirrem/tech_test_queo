@@ -14,4 +14,4 @@ La empresa XYZ necesita integrar una cámara facial con su plataforma de registr
 
 Proponer una arquitectura para la integración de la cámara facial con la plataforma de registro de accesos usando diagramas.
 
-- La arquitectura Propuesta contempla la implementación de un motor de registro de eventos en la plataforma de registro de accesos. La cual se encargará de clasificar y registrar los eventos que cualquier cámara pueda llegar a reportar.
+- La arquitectura propuesta contempla la implementación de una plataforma de gestión del sistema mediante el cual se podrá realizar de una manera intuitiva el registro o actualización de personas en las cámaras; Además se propone implementar un motor de registro de eventos el cual se encargará de clasificar y registrar los eventos que cualquier cámara pueda llegar a reportar.
