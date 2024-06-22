@@ -1,0 +1,3 @@
+/tmp/*
+/backups_at_cloud/*
+/var/obsolete_logs/*
